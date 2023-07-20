@@ -1,3 +1,5 @@
+[![Header](coding.gif)](https://github.com/madhurajayashanka/madhurajayashanka/blob/main/coding.gif?raw=true)
+
 ## Hello there! 👋 I'm Madhura Jayashanka 👨‍💻
 
 <p align="center">
@@ -40,9 +42,9 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/madhurajayashanka">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=madhurajayashanka&count_private=true&show_icons=true&theme=vue&hide_border=true" alt="Madhura's GitHub Stats" />
-  </a>
+ 
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">    <img  alt="madhurajayashanka's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/madhurajayashanka?cardType=level-alternate&theme=react&preferLogin=false" />  </a>
+  
   <a href="https://github.com/madhurajayashanka">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhurajayashanka&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
   </a>
