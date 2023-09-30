@@ -15,7 +15,7 @@
 
 ### 📫 How to reach me:
 - Email: madhuraweerasooriye@gmail.com
-- Portfolio: <a href="Jayashanka.me" target="_blank">Jayashanka.me</a>
+- Portfolio: <a href="https://madhurajayashanka.github.io/portfolio/" target="_blank">Portfolio</a>
 
 ### 🔍 Connect with me:
 <p align="center">
