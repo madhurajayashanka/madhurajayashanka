@@ -3,7 +3,7 @@
 ## Hello there! 👋 I'm Madhura Jayashanka 👨‍💻
 
 <p align="center">
-  <a href="https://madhura.info" target="_blank">
+  <a href="https://madhura.tech/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=madhurajayashanka&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
@@ -15,7 +15,7 @@
 
 ### 📫 How to reach me:
 - Email: madhuraweerasooriye@gmail.com
-- Portfolio: <a href="https://madhurajayashanka.github.io/portfolio/" target="_blank">Portfolio</a>
+- Portfolio: <a href="https://madhura.tech/" target="_blank">Portfolio</a>
 
 ### 🔍 Connect with me:
 <p align="center">
