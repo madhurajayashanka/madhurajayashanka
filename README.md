@@ -15,7 +15,7 @@
 
 ### 📫 How to reach me:
 - Email: madhuraweerasooriye@gmail.com
-- Portfolio: <a href="https://madhura.tech/" target="_blank">Portfolio</a>
+- Portfolio: <a href="https://madhura.vercel.app" target="_blank">Portfolio</a>
 
 ### 🔍 Connect with me:
 <p align="center">
